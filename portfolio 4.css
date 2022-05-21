@@ -27,7 +27,7 @@ h1 {
     line-height: 25px;
     font-family: Comic Sans MS;
     font-size: 1.2em;
-    margin-bottom: 265px;
+    margin: 0 5px 265px 5px;
 }
 .about_contact {
     color: white;
